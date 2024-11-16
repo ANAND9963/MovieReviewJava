@@ -1,2 +1,3 @@
 # MovieReviewJava
-MOvies review project using Java and Spring
+Movies review project using Java and Spring
+Frontend as react
